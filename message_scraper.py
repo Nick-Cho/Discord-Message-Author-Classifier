@@ -51,5 +51,6 @@ async def on_message(message):
     data.to_csv(file_location)
     await message.channel.send("Done Scanning")
 
-client.run("OTU1ODQ1MDM1ODY4NDM4NjE5.YjnmDw.GDWp5che8sto3sOQ7eCfiNrz0cw")
+client.run("")
+#Token removed for safety 
 
